@@ -20,8 +20,8 @@
 
 #include "camera_pins.h"
 
-const char* ssid = "*********";
-const char* password = "*********";
+const char* ssid = "Docentes";
+const char* password = "$doc19_S3p";
 
 void startCameraServer();
 
